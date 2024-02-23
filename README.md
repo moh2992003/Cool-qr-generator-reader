@@ -1,0 +1,1 @@
+# Cool-qr-generator-reader
